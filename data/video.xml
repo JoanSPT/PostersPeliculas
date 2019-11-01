@@ -1,0 +1,150 @@
+<video>
+  <films>
+    <film id="1" name="Capitana Marvel">
+      <genre>Aventuras</genre>
+      <director>Anna Boden y Ryan Fleck</director>
+      <duration>124 min</duration>
+      <stars>
+        <star character="Capitana Marvel">Brie Larson</star>
+        <star character="Samuel L. Jackson">Nick Fury</star>
+        <star character="Ben Mendelsohn">Talos</star>
+      </stars>
+      <cover>img/p1.jpg</cover>
+      <price>20€</price>
+    </film>
+    <film id="2" name="MOONLIGHT">
+      <genre>Drama</genre>
+      <director>Berry Jenkins</director>
+      <duration>111 min</duration>
+      <stars>
+        <star character=""></star>
+        <star character=""></star>
+        <star character=""></star>
+      </stars>
+      <cover>img/p2.jpg</cover>
+      <price>10€</price>
+    </film>
+    <film id="3" name="Birds of prey">
+      <genre>Aventuras</genre>
+      <director>Cathy Yan</director>
+      <duration>120min</duration>
+      <stars>
+        <star character="Harley Quinn">Margot Robbie</star>
+        <star character="Canario Negro">Jurnee Smollet-Bell</star>
+        <star character="Cazadora">Mary Elizabeth Winstead</star>
+      </stars>
+      <cover>img/p3.jpg</cover>
+      <price>35€</price>
+    </film>
+    <film id="4" name="Vengadores: END GAME">
+      <genre>Aventuras</genre>
+      <director>Anthony y Joe Russo</director>
+      <duration>181 min</duration>
+      <stars>
+        <star character="Robert Downey Jr.">Iron Man</star>
+        <star character="Chris Evans">Capitán América</star>
+        <star character="Scarlett Johansson">Black Widow</star>
+      </stars>
+      <cover>img/p4.jpg</cover>
+      <price>20€</price>
+    </film>
+    <film id="5" name="Pulp Fiction">
+      <genre>Policias/Mafias</genre>
+      <director>Quenty Tarantino</director>
+      <duration>154 MIN</duration>
+      <stars>
+        <star character="John Travolta">Vicent Vega</star>
+        <star character="Samuel L. Jackson">Jules Winnfield</star>
+        <star character="Uma Thurman">Mia Wallace</star>
+      </stars>
+      <cover>img/p5.jpg</cover>
+      <price>40€</price>
+    </film>
+    <film id="6" name="Los juegos del hambre: sinsajo (1º parte)">
+      <genre>Distopia</genre>
+      <director>Francis Lawrence</director>
+      <duration>123 min</duration>
+      <stars>
+        <star character="Katniss Everdeen">Jennifer Lawrence</star>
+        <star character="Peeta Mellark">Josh Hutcherson</star>
+        <star character="Gale Hawthorne">Liam Hemsworth</star>
+      </stars>
+      <cover>img/p6.jpg</cover>
+      <price>9,95€</price>
+    </film>
+  </films>
+  <series>
+    <serie id="1" name="Stranger Things">
+      <seasons>3</seasons>
+      <genre>Misterio/Aventuras</genre>
+      <director>Hermanos Duffer</director>
+      <stars>
+        <star character="Millie Bobby Brown">Once</star>
+        <star character="Gaten Matarazzon">Dustin Henderson</star>
+        <star character="Noah Schnapp">Will</star>
+      </stars>
+      <cover>img/s1.jpg</cover>
+      <price>30€</price>
+    </serie>
+    <serie id="2" name="Rick and Morty">
+      <seasons>4</seasons>
+      <genre>Animación</genre>
+      <director>Justin Roiland y Dan Harmon</director>
+      <stars>
+        <star character="Rick Sanchez">Justin Roiland</star>
+        <star character="Morty Smith">Justin Roiland</star>
+        <star character="Summer Smith">Spencer Grammer</star>
+      </stars>
+      <cover>img/s2.jpg</cover>
+      <price>35€</price>
+    </serie>
+    <serie id="3" name="Bojack Horseman">
+      <seasons>6</seasons>
+      <genre>Animación</genre>
+      <director>Raphael Bob-waksberg</director>
+      <stars>
+        <star character="BoJack Horseman">Will Arnett</star>
+        <star character="Alison Brie">Diane Nguyen</star>
+        <star character="Paul F. Tompkins">Mr. Peanutbutter</star>
+      </stars>
+      <cover>img/s3.jpg</cover>
+      <price>15€</price>
+    </serie>
+    <serie id="4" name="Ataque de los titanes">
+      <seasons>4</seasons>
+      <genre>Animación</genre>
+      <director>Hajime Isayama</director>
+      <stars>
+        <star character="Eren Jagger">Yuki Kaji</star>
+        <star character="Mikasa Ackerman">Yui Ishikawa</star>
+        <star character="Armin Arlert">Marina Inoue</star>
+      </stars>
+      <cover>img/s4.jpg</cover>
+      <price>15€</price>
+    </serie>
+    <serie id="5" name="Black Mirror">
+      <seasons>5</seasons>
+      <genre>Thriller/Misterio/Distopia</genre>
+      <director>Charlie Brooker</director>
+      <stars>
+        <star character="Lacie">Bryce Dallas Howard</star>
+        <star character="Nanette Cole">Cristin Milioti</star>
+        <star character="Matt">Jon Hamm</star>
+      </stars>
+      <cover>img/s5.jpg</cover>
+      <price>35€</price>
+    </serie>
+    <serie id="6" name="Breaking Bad">
+      <seasons>5</seasons>
+      <genre>Mafia/Policiaca</genre>
+      <director>Vince Gillian</director>
+      <stars>
+        <star character="Bryan Cranston">Walter White</star>
+        <star character="Aaron Paul">Jesse Pinkman</star>
+        <star character="Anna Gunn">Skyler White</star>
+      </stars>
+      <cover>img/s6.jpg</cover>
+      <price>35€</price>
+    </serie>
+  </series>
+</video>

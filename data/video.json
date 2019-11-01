@@ -1,0 +1,180 @@
+{
+  "video":{
+    "films":[
+      {"id":1,
+       "name":"Capitana Marvel",
+       "genre":"Aventuras",
+       "director":"Anna Boden y Ryan Fleck",
+       "duration":"124 min",
+       "cover":"img/p1.jpg",
+       "price":"20€",
+       "sinopsis":"La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, 'Capitana Marvel' es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+       "stars":[
+         {"character":"Capitana Marvel", "name":"Brie Larson"},
+         {"character":"Samuel L. Jackson", "name":"Nick Fury"},
+         {"character":"Ben Mendelsohn", "name":"Talos"}
+         ]
+       },
+      {"id":2,
+      "name":"MOONLIGHT",
+      "genre":"Drama",
+      "director":"Berry Jenkins",
+      "duration":"111 min",
+      "cover":"img/p2.jpg",
+      "price":"10€",
+      "sinopsis":"Chiron es un joven afroamericano con una difícil infancia y adolescencia, que crece en una zona conflictiva de Miami. A medida que pasan los años, el joven se descubre a sí mismo intentando sobrevivir en diferentes situaciones. Durante todo ese tiempo, Chirón tendrá que hacer frente a la drogadicción de su madre y al violento ambiente de su colegio y su barrio.",
+      "stars":[
+        {"character":"", "name":""},
+        {"character":"", "name":""},
+        {"character":"", "name":""}
+        ]
+      },
+      {"id":3,
+       "name":"Birds of prey",
+       "genre":"Aventuras",
+       "director":"Cathy Yan",
+       "duration":"120min",
+       "cover":"img/p3.jpg",
+       "price":"35€",
+       "sinopsis":"Tras los acontecimientos de Escuadrón Suicida, Harley Quinn ha dejado al Joker. Cuando Cassandra Cain, una joven, se encuentra con un diamante que pertenece al amo del crimen Máscara Negra, Harley recluta a Canario Negro, Cazadora y Renee Montoya para ayudarla a protegerla.",
+       "stars":[
+         {"character":"Harley Quinn", "name":"Margot Robbie"},
+         {"character":"Canario Negro", "name":"Jurnee Smollet-Bell"},
+         {"character":"Cazadora", "name":"Mary Elizabeth Winstead"}
+         ]
+       },
+       {"id":4,
+        "name":"Vengadores: END GAME",
+        "genre":"Aventuras",
+        "director":"Anthony y Joe Russo",
+        "duration":"181 min",
+        "cover":"img/p4.jpg",
+        "price":"20€",
+        "sinopsis":"La decimación causada por el malvado titán, Thanos ha ocasionado que la mitad de la vida en el universo se desintegre y muera. Clint Barton, quien se encontraba bajo arresto domiciliario por violar los acuerdos de Sokovia, es testigo de la desaparición de su familia por ese hecho. Tres semanas después, Carol Danvers rescata a Nebula y a Tony Stark, quienes estaban varados en el espacio exterior en la nave Milano I de Quill, después de su feroz batalla contra Thanos en el planeta Titán, los lleva de regreso a la Tierra hasta el complejo de los Vengadores, donde los esperan Natasha Romanoff, Bruce Banner, Steven Rogers, Rocket, Thor, Pepper Potts y James Rhodes. Mientras están adentro del complejo en una reunión, el equipo pone al corriente a Tony sobre lo que esta pasando desde que estuvo ausente en el espacio exterior, pero debido a su experiencia traumática en el planeta Titán, Stark comienza a comportarse algo imprudente con el equipo, especialmente a Rogers, con quien todavía no ha olvidado lo que paso en Siberia años atrás y le recrimina que todo esto no habría pasado si Rogers no hubiese separado al equipo y que indirectamente también 'ayudó' a Helmut Zemo en su venganza y le entrega el dispositivo que contiene su armadura a Rogers indicando que no quiere ver a ninguno de ellos, sin mas opción y para tranquilizar las cosas, Banner decide ponerle un sedante a Stark, para que descanse y se recupere. ",
+        "stars":[
+          {"character":"Robert Downey Jr.", "name":"Iron Man"},
+          {"character":"Chris Evans", "name":"Capitán América"},
+          {"character":"Scarlett Johansson", "name":"Black Widow"},
+          {"character":"Chris Hemsworth", "name":"Thor"},
+          {"character":"Mark Ruffalo", "name":"Hulk"},
+          {"character":"Brie Larson", "name":"Capitana Marvel"},
+          {"character":"Josh Brolin", "name":"Thanos"}
+          ]
+        },
+        {"id":5,
+         "name":"Pulp Fiction",
+         "genre":"Policias/Mafias",
+         "director":"Quenty Tarantino",
+         "duration":"154 MIN",
+         "cover":"img/p5.jpg",
+         "price":"40€",
+         "sinopsis":"Pulp Fiction está narrada en un orden no cronológico y sigue tres historias entrelazadas. La primera de ellas sigue al asesino a sueldo Vincent Vega mientras se ocupa de cuidar de Mia Wallace. El boxeador Butch Coolidge es el protagonista de la segunda y, finalmente, la tercera sigue al compañero de Vincent, Jules Winnfield.​ Las tres historias están relacionadas entre ellas para formar una intriga que ha sido descrita como 'una trama por episodios, con acontecimientos circulares que tienen un principio y un final y en cuyos desarrollos se incluyen elementos y referencias a los otros episodios'. Estas tres historias están repartidas a lo largo de las seis partes de la película",
+         "stars":[
+           {"character":"John Travolta", "name":"Vicent Vega"},
+           {"character":"Samuel L. Jackson", "name":"Jules Winnfield"},
+           {"character":"Uma Thurman", "name":"Mia Wallace"}
+           ]
+         },
+         {"id":6,
+          "name":"Los juegos del hambre: sinsajo (1º parte)",
+          "genre":"Distopia",
+          "director":"Francis Lawrence",
+          "duration":"123 min",
+          "cover":"img/p6.jpg",
+          "price":"9,95€",
+          "sinopsis":"Después de ser rescatada de la arena destruida en los 75º Juegos del Hambre, Katniss Everdeen, junto con sus compañeros Vencedores Beetee Latier y Finnick Odair, son llevados al Distrito 13, un distrito independiente aislado del resto de Panem que ha sido la punta de la lanza de la rebelión, donde se reúne con su madre y su hermana Prim. Mientras se recupera, se presenta a la presidenta Alma Coin, la líder de los rebeldes, y se le dice que sus acciones en el ámbito provocaron disturbios y huelgas contra el Capitolio. Coin le pregunta si ella se convertirá en el 'Sinsajo', el símbolo de la rebelión, como parte de sus 'corazones y mentes'. Katniss se niega rotundamente, recordándole que salieron sin Peeta, su amante y compañero retratado del Distrito 12. A sugerencia de Plutarch Heavensbee, el ex-organizador de los Juegos, Katniss es escoltada para ver las ruinas del Distrito, que fue completamente arrasado por una campaña de bombardeos del Capitolio (con la excepción de una de las viviendas en la 'Aldea de los Vencedores'). Después de ver que Peeta está siendo utilizado por la televisión estatal del Capitolio para sofocar la rebelión, Katniss cambia a regañadientes su mente y se compromete a convertirse en el 'Sinsajo' de Coin, a condición de que Peeta y los otros vencedores sean rescatados y perdonados en cuanto sea posible, y que su hermana, Prim pueda mantener a su gato, Buttercup. ",
+          "stars":[
+            {"character":"Katniss Everdeen", "name":"Jennifer Lawrence"},
+            {"character":"Peeta Mellark", "name":"Josh Hutcherson"},
+            {"character":"Gale Hawthorne", "name":"Liam Hemsworth"}
+            ]
+          }
+        ],
+    "series":[
+      {"id":1,
+          "name":"Stranger Things",
+          "genre":"Misterio/Aventuras",
+          "director":"Hermanos Duffer",
+          "seasons": 3,
+          "cover":"img/s1.jpg",
+          "price":"30€",
+          "sinopsis":"La historia arranca durante la década de los 80, en el pueblo ficticio de Hawkins, Indiana, cuando un niño llamado Will Byers desaparece, hecho que destapa los extraños sucesos que tienen lugar en la zona, producto de una serie de experimentos que realiza el gobierno en un laboratorio científico cercano. Además, en la ciudad aparecen fuerzas sobrenaturales inquietantes y una niña muy extraña. Ella, junto con los amigos de Will, se encargará de buscarlo, sin imaginar lo que tendrán que enfrentar para encontrarlo. Inadvertidamente, crearon un portal a una dimensión alternativa llamada 'Upside Down' ('El Otro Lado'). La influencia de Upside Down comienza a afectar a los desconocidos residentes de Hawkins de manera calamitosa. ",
+          "stars":[
+            {"character":"Millie Bobby Brown", "name":"Once"},
+            {"character":"Gaten Matarazzon", "name":"Dustin Henderson"},
+            {"character":"Noah Schnapp", "name":"Will"}
+            ]
+          },
+      {"id":2,
+          "name":"Rick and Morty",
+          "genre":"Animación",
+          "director":"Justin Roiland y Dan Harmon",
+          "seasons": 4,
+          "cover":"img/s2.jpg",
+          "price":"35€",
+          "sinopsis":"Rick Sánchez es un ejemplo de típico 'científico loco'. Es un genio, pero es irresponsable, alcohólico, egoísta, un poco depresivo y claramente con poca cordura. Rick por diferentes razones termina mudándose a la casa de su hija Beth y en ese momento se encuentra con su nieto Morty; un joven de 14 años tímido y no muy listo. Al juntarse con su nieto, Rick y Morty vivirán una variedad de aventuras a lo largo del Cosmos y Universos paralelos. Y es mediante tantas vivencias y reflexiones que Rick busca que su nieto Morty no acabe como su padre, Jerry, un hombre muy poco exitoso que a pesar de tener buenas intenciones resulta ser bastante inútil en muchas ocasiones y depende mucho de su esposa, Beth, madre de Morty. ",
+          "stars":[
+            {"character":"Rick Sanchez", "name":"Justin Roiland"},
+            {"character":"Morty Smith", "name":"Justin Roiland"},
+            {"character":"Summer Smith", "name":"Spencer Grammer"}
+            ]
+          },
+      {"id":3,
+          "name":"Bojack Horseman",
+          "genre":"Animación",
+          "director":"Raphael Bob-Waksberg",
+          "seasons": 6,
+          "cover":"img/s3.jpg",
+          "price": "15€",
+          "sinopsis":"En un mundo donde humanos y animales antropomorfos conviven, el personaje principal de la serie es el caballo BoJack Horseman (Will Arnett), protagonista de la telecomedia Horsin' Around en la década de 1990. Después de años de decadencia y una tormentosa vida personal, se propone volver al candelero a través de una autobiografía para la que contará con ayuda de una escritora fantasma, Diane Nguyen (Alison Brie). BoJack también tendrá que lidiar con las exigencias de su exnovia y agente, la gata Princess Carolyn; su compañero de piso Todd Chávez y su amienemigo Mr. Peanutbutter, un perro labrador que es novio de Diane y triunfó con una sitcom muy similar a Horsin' Around. La mayor parte de los episodios se desarrollan en Hollywood, California. ",
+          "stars":[
+            {"character":"BoJack Horseman", "name":"Will Arnett"},
+            {"character":"Alison Brie", "name":"Diane Nguyen"},
+            {"character":"Paul F. Tompkins", "name":"Mr. Peanutbutter"}
+            ]
+          },
+      {"id":4,
+          "name":"Ataque de los titanes",
+          "genre":"Animación",
+          "director":"Hajime Isayama",
+          "seasons": 4,
+          "cover":"img/s4.jpg",
+          "price":"15€",
+          "sinopsis":"La historia comienza con Eren Jaeger quien vive de forma pacífica con su familia, su hermana adoptiva Mikasa Ackerman, y su único amigo Armin Arlert. Estos viven en el «distrito de Shiganshina» (シガンシナ区 Shiganshina-ku?), una de las principales ciudades, ubicadas en la muralla María. Pero todo cambia cuando un titán gigantesco crea una enorme grieta permitiendo la entrada de los titanes a la ciudad, mientras que otro titan fuertemente blindado traspasa la muralla María haciendo de su protección inútil, y provocando una evacuación masiva en toda la población hacia la muralla Rose. Durante el ataque, Eren observa con horror como un titán se come a su madre, mientras que su padre desaparece después de entregarle a Eren la llave del sótano de su casa encomendándole regresar a su hogar algún día. Después de la desaparición de su padre, Eren jura matar a todos los titanes y se alista en el ejército junto con sus amigos. ",
+          "stars":[
+            {"character":"Eren Jagger", "name":"Yuki Kaji"},
+            {"character":"Mikasa Ackerman", "name":"Yui Ishikawa"},
+            {"character":"Armin Arlert", "name":"Marina Inoue"}
+            ]
+          },
+      {"id":5,
+          "name":"Black Mirror",
+          "genre":"Thriller/Misterio/Distopia",
+          "director":"Charlie Brooker",
+          "seasons": 5,
+          "cover":"img/s5.jpg",
+          "price":"35€",
+          "sinopsis":"Esta serie de ciencia ficción explora un futuro próximo muy inquietante, donde las grandes innovaciones tecnológicas de la raza humana chocan con sus peores instintos.",
+          "stars":[
+            {"character":"Lacie", "name":"Bryce Dallas Howard"},
+            {"character":"Nanette Cole", "name":"Cristin Milioti"},
+            {"character":"Matt", "name":"Jon Hamm"}
+            ]
+          },
+      {"id":6,
+          "name":"Breaking Bad",
+          "genre":"Mafia/Policiaca",
+          "director":"Vince Gillian",
+          "seasons": 5,
+          "cover":"img/s6.jpg",
+          "price":"35€",
+          "sinopsis":"Walter White (Bryan Cranston) es un frustrado profesor de química en un instituto, padre de un joven discapacitado y con una mujer (Anna Gunn) embarazada. Walt, además, trabaja en un lavadero de vehículos por las tardes. Cuando le diagnostican un cáncer pulmonar terminal se plantea qué pasará con su familia cuando él muera. En una redada de la DEA, a la cual fue invitado por el agente Hank Schrader, su cuñado (Dean Norris), reconoce a un antiguo alumno suyo, Jesse Pinkman (Aaron Paul), a quien contacta para fabricar y vender metanfetamina y así asegurar el bienestar económico de su familia. Pero el acercamiento al mundo de las drogas y el trato con traficantes y mafiosos contamina la personalidad de Walter, el cual va abandonando poco a poco su personalidad recta y predecible para convertirse en alguien sin demasiados escrúpulos cuando se trata de conseguir lo que quiere. ",
+          "stars":[
+            {"character":"Bryan Cranston", "name":"Walter White"},
+            {"character":"Aaron Paul", "name":"Jesse Pinkman"},
+            {"character":"Anna Gunn", "name":"Skyler White"}
+            ]
+          }
+        ]
+      }
+    }
